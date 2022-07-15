@@ -6,6 +6,7 @@ name: CI
 on:
   schedule:
     - cron: '0 4 * * *'
+  workflow_dispatch: null
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 jobs:
