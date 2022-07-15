@@ -54,7 +54,7 @@ if DEBUG == 1:
     f = open('example.feed', 'r+')
     lines = f.read()
 else:
-    requests.get("https://magyarkozlony.hu/feed", verify=False)
+    lines=requests.get("https://magyarkozlony.hu/feed", verify=False).text
 
 tree = ElementTree.fromstring(lines)
 for e in tree.findall('./channel/item'):
