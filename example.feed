@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Magyar Közlöny</title>
+        <link>https://magyarkozlony.hu//feed</link>
+        <description>
+            <![CDATA[Magyar Közlöny]]>
+        </description>
+        <atom:link href="https://magyarkozlony.hu/feed" rel="self"></atom:link>
+        <language>hu</language>
+        <lastBuildDate>Thu, 14 Jul 2022 21:49:46 +0200</lastBuildDate>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 116. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/5c7df77f35130136806def27141ba6eebcd065be/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/5c7df77f35130136806def27141ba6eebcd065be/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 14 Jul 2022 21:49:46 +0200</pubDate>
+            <enclosure year="2022" serial="116" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 115. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/23c0a0ab039a2bb08231a832d285e493a778c3f6/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/23c0a0ab039a2bb08231a832d285e493a778c3f6/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 13 Jul 2022 21:54:10 +0200</pubDate>
+            <enclosure year="2022" serial="115" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 38. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/749259fdc4eb0299c2587c3725de9e83335b4b00/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/749259fdc4eb0299c2587c3725de9e83335b4b00/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 13 Jul 2022 21:50:28 +0200</pubDate>
+            <enclosure year="2022" serial="38" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 114. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/4a1fb3ecf93e79d70a53aa4547cd034a468a3c7a/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/4a1fb3ecf93e79d70a53aa4547cd034a468a3c7a/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 12 Jul 2022 22:23:57 +0200</pubDate>
+            <enclosure year="2022" serial="114" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 71. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/59664af54305b5dba73b8cacfc9c9508e8d76c72/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/59664af54305b5dba73b8cacfc9c9508e8d76c72/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 12 Jul 2022 16:43:08 +0200</pubDate>
+            <enclosure year="2022" serial="71" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 70. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f55f5d53b8f3d1a9f8170b564c9d9bbc0f97649b/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f55f5d53b8f3d1a9f8170b564c9d9bbc0f97649b/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 12 Jul 2022 16:41:21 +0200</pubDate>
+            <enclosure year="2022" serial="70" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 69. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/af513c70a82c6fac9ba2409f223885eaf3873f5e/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/af513c70a82c6fac9ba2409f223885eaf3873f5e/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 12 Jul 2022 16:37:59 +0200</pubDate>
+            <enclosure year="2022" serial="69" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 68. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/699c6227903fb4379f6fb410a14002f2c1a52cb8/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/699c6227903fb4379f6fb410a14002f2c1a52cb8/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 12 Jul 2022 16:29:54 +0200</pubDate>
+            <enclosure year="2022" serial="68" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 113. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/97f83027c45529d11cd0c6645ceb9fdc85d7ed19/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/97f83027c45529d11cd0c6645ceb9fdc85d7ed19/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 11 Jul 2022 19:49:00 +0200</pubDate>
+            <enclosure year="2022" serial="113" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 112. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/33ec3f953094ac832623efa05049441f1e4fdcad/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/33ec3f953094ac832623efa05049441f1e4fdcad/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 11 Jul 2022 08:53:54 +0200</pubDate>
+            <enclosure year="2022" serial="112" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 111. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/dc163f4f5f49bcb445edc71ebb6238d8cf5457e4/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/dc163f4f5f49bcb445edc71ebb6238d8cf5457e4/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 08 Jul 2022 20:19:36 +0200</pubDate>
+            <enclosure year="2022" serial="111" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 110. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f9c3cd7762bc33f16df7cedbc6fb025f50caeb80/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f9c3cd7762bc33f16df7cedbc6fb025f50caeb80/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 07 Jul 2022 17:57:53 +0200</pubDate>
+            <enclosure year="2022" serial="110" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 37. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/08f89a1d7da5dd335c557e3f44fd304c85c31a31/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/08f89a1d7da5dd335c557e3f44fd304c85c31a31/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 06 Jul 2022 21:58:59 +0200</pubDate>
+            <enclosure year="2022" serial="37" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 109. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/7be566951f2ca78d66d713fe74c5e13d045bbc62/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/7be566951f2ca78d66d713fe74c5e13d045bbc62/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 05 Jul 2022 23:17:20 +0200</pubDate>
+            <enclosure year="2022" serial="109" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 108. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/30fdf96442c7a476b8f4f09fca4a4cbafb29b20f/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/30fdf96442c7a476b8f4f09fca4a4cbafb29b20f/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 04 Jul 2022 23:03:23 +0200</pubDate>
+            <enclosure year="2022" serial="108" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 107. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/c69b6d5386508b6f16a4b68f18b54df4ed8141da/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/c69b6d5386508b6f16a4b68f18b54df4ed8141da/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 01 Jul 2022 19:15:13 +0200</pubDate>
+            <enclosure year="2022" serial="107" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 106. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/496a75ba39b7e268dbb574ba9dfbd9d56960f9bf/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/496a75ba39b7e268dbb574ba9dfbd9d56960f9bf/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 30 Jun 2022 19:48:43 +0200</pubDate>
+            <enclosure year="2022" serial="106" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 36. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f2195eedc67149d767abcea5f5d0582b4066a256/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f2195eedc67149d767abcea5f5d0582b4066a256/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 30 Jun 2022 19:45:36 +0200</pubDate>
+            <enclosure year="2022" serial="36" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 67. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/12caa881eab8669df5c09b458936692963804493/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/12caa881eab8669df5c09b458936692963804493/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 29 Jun 2022 17:45:08 +0200</pubDate>
+            <enclosure year="2022" serial="67" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 66. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f7f03db0a3e742bb188764e4cd1415d1ac278fea/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f7f03db0a3e742bb188764e4cd1415d1ac278fea/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 29 Jun 2022 17:42:46 +0200</pubDate>
+            <enclosure year="2022" serial="66" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 65. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/d30d07899fa65031bc8530c40d7fc4fd259101dc/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/d30d07899fa65031bc8530c40d7fc4fd259101dc/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 29 Jun 2022 17:40:47 +0200</pubDate>
+            <enclosure year="2022" serial="65" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 64. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cf0bd18ef1301dfd9a9ecd44e2cd0c61794eb456/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cf0bd18ef1301dfd9a9ecd44e2cd0c61794eb456/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 29 Jun 2022 17:38:26 +0200</pubDate>
+            <enclosure year="2022" serial="64" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 105. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/765fa773b6af1efa6282d619f0fd68c2c2c637d6/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/765fa773b6af1efa6282d619f0fd68c2c2c637d6/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 28 Jun 2022 22:11:53 +0200</pubDate>
+            <enclosure year="2022" serial="105" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 35. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/0f2632488332ec646a37a4d337a0157e6e23bb40/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/0f2632488332ec646a37a4d337a0157e6e23bb40/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 28 Jun 2022 22:06:54 +0200</pubDate>
+            <enclosure year="2022" serial="35" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 104. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/2c30c84f38ab251c62c9dfa4cfea7530c1d14fb2/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/2c30c84f38ab251c62c9dfa4cfea7530c1d14fb2/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 24 Jun 2022 17:54:16 +0200</pubDate>
+            <enclosure year="2022" serial="104" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 34. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/845f67bb32d7a8e9941bc44d27ad12bc2b659e83/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/845f67bb32d7a8e9941bc44d27ad12bc2b659e83/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 24 Jun 2022 17:46:57 +0200</pubDate>
+            <enclosure year="2022" serial="34" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 103. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/5f1ffacfcb03e5ffd36fcb669754a43b9a76b60e/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/5f1ffacfcb03e5ffd36fcb669754a43b9a76b60e/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 22 Jun 2022 21:49:54 +0200</pubDate>
+            <enclosure year="2022" serial="103" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 102. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/d0a712e7fe3dddaf62a6b0261cc104c570349f31/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/d0a712e7fe3dddaf62a6b0261cc104c570349f31/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 21 Jun 2022 22:01:13 +0200</pubDate>
+            <enclosure year="2022" serial="102" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 33. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/e4231fbc2fbbf88d7bd236e3ae88166b61d45ee9/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/e4231fbc2fbbf88d7bd236e3ae88166b61d45ee9/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 21 Jun 2022 21:58:13 +0200</pubDate>
+            <enclosure year="2022" serial="33" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 63. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cbf869b586f371431d7d5dc7b7c813356c019521/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cbf869b586f371431d7d5dc7b7c813356c019521/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 21 Jun 2022 19:25:43 +0200</pubDate>
+            <enclosure year="2022" serial="63" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 101. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/ac7789ae8b5b5c3e7f328d24336d665b988b42c7/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/ac7789ae8b5b5c3e7f328d24336d665b988b42c7/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 20 Jun 2022 21:43:11 +0200</pubDate>
+            <enclosure year="2022" serial="101" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 62. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/88f2ca6bc7ed74e77906ed072eb766cf44416559/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/88f2ca6bc7ed74e77906ed072eb766cf44416559/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 20 Jun 2022 16:14:23 +0200</pubDate>
+            <enclosure year="2022" serial="62" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 32. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/1c467043d376ddd99ed7eba344d762057c38ec5c/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/1c467043d376ddd99ed7eba344d762057c38ec5c/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 17 Jun 2022 20:23:08 +0200</pubDate>
+            <enclosure year="2022" serial="32" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 31. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/832b3d701128c5a286b3db5f8565320d4a24a418/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/832b3d701128c5a286b3db5f8565320d4a24a418/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 17 Jun 2022 20:21:18 +0200</pubDate>
+            <enclosure year="2022" serial="31" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 100. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/fc1dbfadcc08abb689633f827592a05d1413b478/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/fc1dbfadcc08abb689633f827592a05d1413b478/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 17 Jun 2022 20:17:54 +0200</pubDate>
+            <enclosure year="2022" serial="100" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 99. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/6c8ecece3191d585db7347cdf5eff18aa5c9c98c/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/6c8ecece3191d585db7347cdf5eff18aa5c9c98c/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 17 Jun 2022 20:16:02 +0200</pubDate>
+            <enclosure year="2022" serial="99" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 98. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/dd4bf9247ee4865c79b3242a9d39acf3e0a74fb7/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/dd4bf9247ee4865c79b3242a9d39acf3e0a74fb7/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 15 Jun 2022 22:50:10 +0200</pubDate>
+            <enclosure year="2022" serial="98" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 61. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/46e01bbe5cd69d4b2f4261ffb157bf1155964c60/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/46e01bbe5cd69d4b2f4261ffb157bf1155964c60/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 15 Jun 2022 19:40:12 +0200</pubDate>
+            <enclosure year="2022" serial="61" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 97. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/98856fd01798e34e38b3586036368f3973ca1116/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/98856fd01798e34e38b3586036368f3973ca1116/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 14 Jun 2022 22:20:59 +0200</pubDate>
+            <enclosure year="2022" serial="97" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 96. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/8dfe2002948e154db9500196195b5a5eec31d011/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/8dfe2002948e154db9500196195b5a5eec31d011/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Sat, 11 Jun 2022 19:57:16 +0200</pubDate>
+            <enclosure year="2022" serial="96" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 30. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/c29912ccbc231f410b9c67f9fce89c78b95bde5f/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/c29912ccbc231f410b9c67f9fce89c78b95bde5f/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Sat, 11 Jun 2022 19:53:33 +0200</pubDate>
+            <enclosure year="2022" serial="30" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 29. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/3760eed2e426f4167b81fec77f9a2cdcba5909f7/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/3760eed2e426f4167b81fec77f9a2cdcba5909f7/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 09 Jun 2022 19:41:10 +0200</pubDate>
+            <enclosure year="2022" serial="29" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 60. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/ffef66bc074d01d8b1d10f823d024f5893385666/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/ffef66bc074d01d8b1d10f823d024f5893385666/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 09 Jun 2022 16:43:02 +0200</pubDate>
+            <enclosure year="2022" serial="60" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 59. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/46812cd6e7b0df5b3948b946bea51aa7d0a715a3/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/46812cd6e7b0df5b3948b946bea51aa7d0a715a3/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 09 Jun 2022 16:40:51 +0200</pubDate>
+            <enclosure year="2022" serial="59" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 58. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/471ef5b19234c6e10097226a33dc15dcf0fe8576/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/471ef5b19234c6e10097226a33dc15dcf0fe8576/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 09 Jun 2022 16:38:41 +0200</pubDate>
+            <enclosure year="2022" serial="58" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 57. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/8f750f7e5b627676db50432e65d740320a72a7e0/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/8f750f7e5b627676db50432e65d740320a72a7e0/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 09 Jun 2022 16:35:52 +0200</pubDate>
+            <enclosure year="2022" serial="57" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 95. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/a49a699a8c20d157bc4eb68f76814e783bc71df9/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/a49a699a8c20d157bc4eb68f76814e783bc71df9/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 08 Jun 2022 20:30:08 +0200</pubDate>
+            <enclosure year="2022" serial="95" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 94. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/5287ad8653d4aea61e6d0d4837c484f5a1e72f40/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/5287ad8653d4aea61e6d0d4837c484f5a1e72f40/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 07 Jun 2022 22:08:18 +0200</pubDate>
+            <enclosure year="2022" serial="94" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 28. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cdf0ade3374965d6ae6a2a17f0bee2465922a7cc/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cdf0ade3374965d6ae6a2a17f0bee2465922a7cc/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 07 Jun 2022 22:00:21 +0200</pubDate>
+            <enclosure year="2022" serial="28" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 93. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/ec0eb3ec143f7da5ba5dace9ee87122e101aad2d/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/ec0eb3ec143f7da5ba5dace9ee87122e101aad2d/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Sat, 04 Jun 2022 21:40:08 +0200</pubDate>
+            <enclosure year="2022" serial="93" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 92. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f0f69512df8b92ed1afcf38afd67b020b91ccbc4/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f0f69512df8b92ed1afcf38afd67b020b91ccbc4/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 02 Jun 2022 21:22:18 +0200</pubDate>
+            <enclosure year="2022" serial="92" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 27. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cbe21e28304910600fe7ae175a52140e8810f07d/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cbe21e28304910600fe7ae175a52140e8810f07d/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 02 Jun 2022 21:20:03 +0200</pubDate>
+            <enclosure year="2022" serial="27" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 91. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/41b1655e0a1684a23c4e9dc07c3010f3a5c2ff27/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/41b1655e0a1684a23c4e9dc07c3010f3a5c2ff27/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 31 May 2022 20:42:54 +0200</pubDate>
+            <enclosure year="2022" serial="91" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 26. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/b40d11478ca0a49cd31bc28fb8ae22fe8432f540/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/b40d11478ca0a49cd31bc28fb8ae22fe8432f540/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 31 May 2022 20:40:21 +0200</pubDate>
+            <enclosure year="2022" serial="26" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 25. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/0ca7f0bfaf6524c08de8d851452866dcfb25ad3c/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/0ca7f0bfaf6524c08de8d851452866dcfb25ad3c/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 30 May 2022 20:46:53 +0200</pubDate>
+            <enclosure year="2022" serial="25" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 90. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/70aed8fdfe3ba928c5e12706eed42b9cc48b0549/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/70aed8fdfe3ba928c5e12706eed42b9cc48b0549/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 27 May 2022 20:53:22 +0200</pubDate>
+            <enclosure year="2022" serial="90" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 24. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/b702202f664c194f56a33fa1af1607ead9b668f0/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/b702202f664c194f56a33fa1af1607ead9b668f0/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 27 May 2022 20:45:10 +0200</pubDate>
+            <enclosure year="2022" serial="24" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 89. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/a4c635d7c3478e071fb9a67791064a922d678258/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/a4c635d7c3478e071fb9a67791064a922d678258/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 27 May 2022 20:37:09 +0200</pubDate>
+            <enclosure year="2022" serial="89" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 56. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/8fce8c52282a57d289227974d84632d71dfac200/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/8fce8c52282a57d289227974d84632d71dfac200/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 27 May 2022 14:52:29 +0200</pubDate>
+            <enclosure year="2022" serial="56" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 88. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/0342bbf4d2fc62d04bc14e7a241aab91cffe9530/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/0342bbf4d2fc62d04bc14e7a241aab91cffe9530/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 26 May 2022 23:58:04 +0200</pubDate>
+            <enclosure year="2022" serial="88" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 55. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/b79a897ffaddf565656fb5078d8f16a38e967359/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/b79a897ffaddf565656fb5078d8f16a38e967359/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 26 May 2022 15:14:26 +0200</pubDate>
+            <enclosure year="2022" serial="55" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 54. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/199cc154169c2a3e0bbe0856a7953a10541e4f9a/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/199cc154169c2a3e0bbe0856a7953a10541e4f9a/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 26 May 2022 15:12:31 +0200</pubDate>
+            <enclosure year="2022" serial="54" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 87. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/5220d16d575ea61d9858849194c3cf6b35b15513/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/5220d16d575ea61d9858849194c3cf6b35b15513/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 25 May 2022 22:52:18 +0200</pubDate>
+            <enclosure year="2022" serial="87" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 86. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f82bb2bc79a5ddc652495bb038f7ba65dbe20c42/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f82bb2bc79a5ddc652495bb038f7ba65dbe20c42/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 24 May 2022 23:10:16 +0200</pubDate>
+            <enclosure year="2022" serial="86" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 85. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/c389cf9f3d905a05940345b65e6e1fcca05ec11e/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/c389cf9f3d905a05940345b65e6e1fcca05ec11e/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 24 May 2022 23:06:21 +0200</pubDate>
+            <enclosure year="2022" serial="85" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 84. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/a318be33ad4d81dcde0cb105e5112eebea2d4773/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/a318be33ad4d81dcde0cb105e5112eebea2d4773/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 24 May 2022 23:02:25 +0200</pubDate>
+            <enclosure year="2022" serial="84" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 83. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cf52dbfa59ab2082b619e858e8912ad1df0627f2/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cf52dbfa59ab2082b619e858e8912ad1df0627f2/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 23 May 2022 21:49:53 +0200</pubDate>
+            <enclosure year="2022" serial="83" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 23. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/d407cb7928707d7da8035991dfbc601742ec54d1/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/d407cb7928707d7da8035991dfbc601742ec54d1/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 19 May 2022 23:13:59 +0200</pubDate>
+            <enclosure year="2022" serial="23" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 82. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/3905ec0a37f9af74a0a4c346d703eb20a7c7d926/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/3905ec0a37f9af74a0a4c346d703eb20a7c7d926/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 19 May 2022 22:37:12 +0200</pubDate>
+            <enclosure year="2022" serial="82" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 81. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/532b2cb3047ee20c313acd28c7cede04e41db600/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/532b2cb3047ee20c313acd28c7cede04e41db600/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 18 May 2022 22:06:25 +0200</pubDate>
+            <enclosure year="2022" serial="81" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 80. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/d55418d2918881c3c3bc8168cbe3ccd7be001d70/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/d55418d2918881c3c3bc8168cbe3ccd7be001d70/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 16 May 2022 20:54:55 +0200</pubDate>
+            <enclosure year="2022" serial="80" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 79. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/fbca4edbb7638428568a626633ac75c9fc5837ca/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/fbca4edbb7638428568a626633ac75c9fc5837ca/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 13 May 2022 18:49:49 +0200</pubDate>
+            <enclosure year="2022" serial="79" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 22. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/270e9f2329e16bca55b21d223db1dc9bffe6e32c/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/270e9f2329e16bca55b21d223db1dc9bffe6e32c/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 13 May 2022 18:46:34 +0200</pubDate>
+            <enclosure year="2022" serial="22" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 53. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/27292b4fe265e58435ac55d73761cbd8f5add032/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/27292b4fe265e58435ac55d73761cbd8f5add032/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 12 May 2022 17:33:16 +0200</pubDate>
+            <enclosure year="2022" serial="53" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 52. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/1719622e32b79f09d4664a16f41d3f2270e90f06/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/1719622e32b79f09d4664a16f41d3f2270e90f06/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 12 May 2022 17:29:49 +0200</pubDate>
+            <enclosure year="2022" serial="52" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 78. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/779126877b697a6c49f0d17de4e3a6a457553407/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/779126877b697a6c49f0d17de4e3a6a457553407/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 10 May 2022 07:45:38 +0200</pubDate>
+            <enclosure year="2022" serial="78" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 21. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/d9dd37b76f2c65704ba6a3cf1f4fea9f4217e237/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/d9dd37b76f2c65704ba6a3cf1f4fea9f4217e237/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 10 May 2022 07:44:26 +0200</pubDate>
+            <enclosure year="2022" serial="21" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 77. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/866f361839a637c8e9d0806fe87e79e8564eeed5/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/866f361839a637c8e9d0806fe87e79e8564eeed5/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 09 May 2022 21:57:42 +0200</pubDate>
+            <enclosure year="2022" serial="77" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 76. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/48819d885d8c8ebfc7edb41d1c3a5652e08ed48f/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/48819d885d8c8ebfc7edb41d1c3a5652e08ed48f/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 06 May 2022 16:42:35 +0200</pubDate>
+            <enclosure year="2022" serial="76" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 75. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/f81acd9bf408f894381b094b72d8a71f2f77bee2/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/f81acd9bf408f894381b094b72d8a71f2f77bee2/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 04 May 2022 20:47:36 +0200</pubDate>
+            <enclosure year="2022" serial="75" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 51. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/db12535badbef9af5f79a5c818ee47e2c31ff0c7/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/db12535badbef9af5f79a5c818ee47e2c31ff0c7/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 04 May 2022 16:54:03 +0200</pubDate>
+            <enclosure year="2022" serial="51" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 50. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/5c9d31ddebdf1bc4678f4d9d7d7e069f6fd9f66d/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/5c9d31ddebdf1bc4678f4d9d7d7e069f6fd9f66d/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 04 May 2022 15:23:25 +0200</pubDate>
+            <enclosure year="2022" serial="50" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 49. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/bafc20f45dc9179ddd3a4588972514d30f55bd29/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/bafc20f45dc9179ddd3a4588972514d30f55bd29/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Wed, 04 May 2022 15:21:14 +0200</pubDate>
+            <enclosure year="2022" serial="49" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 74. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/69571aff442469417955c5159bf03aedf2bc1293/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/69571aff442469417955c5159bf03aedf2bc1293/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 02 May 2022 21:08:14 +0200</pubDate>
+            <enclosure year="2022" serial="74" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 73. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/04750bbde48dcfd273e8175f81cd80422859b195/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/04750bbde48dcfd273e8175f81cd80422859b195/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 29 Apr 2022 20:44:58 +0200</pubDate>
+            <enclosure year="2022" serial="73" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 20. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/55156e43ea11284b246dcaa72da878b971a897e1/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/55156e43ea11284b246dcaa72da878b971a897e1/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 29 Apr 2022 20:35:31 +0200</pubDate>
+            <enclosure year="2022" serial="20" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 72. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/c2c70e9c094932583d7a8612e1df0c92e7d31275/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/c2c70e9c094932583d7a8612e1df0c92e7d31275/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 29 Apr 2022 17:55:25 +0200</pubDate>
+            <enclosure year="2022" serial="72" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 71. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cf4abbca12e222834365bd47c7838290b78bc2d4/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cf4abbca12e222834365bd47c7838290b78bc2d4/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 28 Apr 2022 20:26:34 +0200</pubDate>
+            <enclosure year="2022" serial="71" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 48. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/472be6295d6cbbb3714b7c9664a97c42e9abbb26/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/472be6295d6cbbb3714b7c9664a97c42e9abbb26/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 28 Apr 2022 16:37:41 +0200</pubDate>
+            <enclosure year="2022" serial="48" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 70. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/71bb580b818699b78180ee14c0fafdbdfc986c83/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/71bb580b818699b78180ee14c0fafdbdfc986c83/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 26 Apr 2022 20:34:02 +0200</pubDate>
+            <enclosure year="2022" serial="70" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 69. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/1a90e9fd8d1131f0f76c13da696ea43aa157d912/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/1a90e9fd8d1131f0f76c13da696ea43aa157d912/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 21 Apr 2022 19:00:09 +0200</pubDate>
+            <enclosure year="2022" serial="69" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 19. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/8fe4b6f56343da5002c78a492ee1a9c66f3fd8ce/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/8fe4b6f56343da5002c78a492ee1a9c66f3fd8ce/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 21 Apr 2022 18:52:17 +0200</pubDate>
+            <enclosure year="2022" serial="19" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 68. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/04b4f42fc980dc7377a2e184efe0f036547cea6c/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/04b4f42fc980dc7377a2e184efe0f036547cea6c/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 19 Apr 2022 19:44:09 +0200</pubDate>
+            <enclosure year="2022" serial="68" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 67. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/cc23ee42562beabf646cbd1733b7fd41abe0fcf5/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/cc23ee42562beabf646cbd1733b7fd41abe0fcf5/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Tue, 19 Apr 2022 17:00:51 +0200</pubDate>
+            <enclosure year="2022" serial="67" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 66. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/c7098ac15ccbd96539e59e1d21af33c86320ebcf/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/c7098ac15ccbd96539e59e1d21af33c86320ebcf/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 14 Apr 2022 22:11:55 +0200</pubDate>
+            <enclosure year="2022" serial="66" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Hivatalos Értesítő 2022. évi 18. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/fe607cd85f12a240a54fe5dae3b61911315701ca/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/fe607cd85f12a240a54fe5dae3b61911315701ca/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 14 Apr 2022 22:02:33 +0200</pubDate>
+            <enclosure year="2022" serial="18" type="Hivatalos Értesítő" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 47. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/8ec50c68f0fdc00f108f6cc60d0e740d383e7f59/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/8ec50c68f0fdc00f108f6cc60d0e740d383e7f59/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 11 Apr 2022 16:36:23 +0200</pubDate>
+            <enclosure year="2022" serial="47" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Indokolások Tára 2022. évi 46. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/e2316c95dceb97111a1f378a2491288f0e967cb7/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/e2316c95dceb97111a1f378a2491288f0e967cb7/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Mon, 11 Apr 2022 16:32:58 +0200</pubDate>
+            <enclosure year="2022" serial="46" type="Indokolások Tára" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 65. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/64d81f1453243af4fc6dcaa2690a3d3cc9d94e93/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/64d81f1453243af4fc6dcaa2690a3d3cc9d94e93/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 16:38:23 +0200</pubDate>
+            <enclosure year="2022" serial="65" type="Magyar Közlöny" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[Magyar Közlöny 2022. évi 64. szám]]>
+            </title>
+            <link>https://magyarkozlony.hu/dokumentumok/28686302caf1c0c25efa8bfb7fb97524895d9090/megtekintes</link>
+            <guid isPermaLink="true">https://magyarkozlony.hu/dokumentumok/28686302caf1c0c25efa8bfb7fb97524895d9090/megtekintes</guid>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:creator>
+            <pubDate>Thu, 07 Apr 2022 19:53:29 +0200</pubDate>
+            <enclosure year="2022" serial="64" type="Magyar Közlöny" />
+        </item>
+    </channel>
+</rss>
