@@ -4,7 +4,7 @@ import requests
 from re import sub
 import urllib3
 urllib3.disable_warnings()
-DEBUG = 1
+DEBUG = 0
 
 
 def f_remove_accents(old):
