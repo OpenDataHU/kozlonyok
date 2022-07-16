@@ -32,6 +32,6 @@ jobs:
       - name: execute py script # run file
         run: |
           python app.py
-           git add -u data/*
+           git add data/*
            git commit --allow-empty -m "Update"
            git push
