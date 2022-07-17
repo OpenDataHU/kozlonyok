@@ -1,8 +1,10 @@
+import imp
 import xml.etree.ElementTree as ElementTree
 import unicodedata as ud
 import requests
 from re import sub
 import urllib3
+import os
 urllib3.disable_warnings()
 DEBUG = 0
 
@@ -54,17 +56,18 @@ if DEBUG == 1:
     f = open('example.feed', 'r+')
     lines = f.read()
 else:
-    lines=requests.get("https://magyarkozlony.hu/feed", verify=False).text
+    lines = requests.get("https://magyarkozlony.hu/feed", verify=False).text
 
 tree = ElementTree.fromstring(lines)
 for e in tree.findall('./channel/item'):
     enc = e.find('enclosure').attrib
     pdfName = f"{enc['serial']}.pdf"
     handleDataDirPath(enc)
-    lnk = e.find('link')
-    url = sub('megtekintes', 'letoltes', lnk.text)
-    print(
-        f"[ + ] Downloading: {snake_case(enc['type'])}/{str(enc['year'])}/{enc['serial']}")
-    response = requests.get(url, verify=False)
-    with open(f"data/{snake_case(enc['type'])}/{str(enc['year'])}/{pdfName}", 'wb') as f:
-        f.write(response.content)
+    if not os.path.isfile(f"data/{snake_case(enc['type'])}/{str(enc['year'])}/{pdfName}"):
+        lnk = e.find('link')
+        url = sub('megtekintes', 'letoltes', lnk.text)
+        print(
+            f"[ + ] Downloading: {snake_case(enc['type'])}/{str(enc['year'])}/{enc['serial']}")
+        response = requests.get(url, verify=False)
+        with open(f"data/{snake_case(enc['type'])}/{str(enc['year'])}/{pdfName}", 'wb') as f:
+            f.write(response.content)
