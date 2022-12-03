@@ -19,6 +19,7 @@ jobs:
         run: |
           git switch main
           git config --global user.name "Közlöny Updater"
+          git config --global user.email "kozlonyupdater@github.com"
           git remote set-url --push origin https://d3n972:${GITHUB_TOKEN}@github.com/OpenDataHU/kozlonyok.git
       - name: setup python
         uses: actions/setup-python@v2
